@@ -1,0 +1,1025 @@
+Skill Check Changelog
+
+Base Game:
+
+Trudy:
+VFreeformGoodspringsGSTrudyTopic001 - Speech 25 → Charisma 6, Speech 25
+VFreeformGoodspringsGSTrudyTopic030 - Speech 25 → Perception 6, Sneak 25
+
+Chet:
+VFreeformGoodspringsGSChetTopic009 - Barter 25 → Sneak 20, Barter 25
+VFreeformGoodspringsGSChetTopic010 - Speech 25 → Strength 6, Speech 25
+
+Rotface:
+VFreeformFreesideVFSRotfaceTopic002 Barter 25 → Strength 5, Barter 30
+VFreeformFreesideVFSRotfaceTopic006 Barter 50 → Endurance 6, Barter 50
+
+Billy Knight:
+VMSTopsTalentPoolVMSTopsBillyKnightTopic006 Barter 25 → Charisma 6, Barter 25
+
+Johnson Nash:
+JNashInfoSpeech (Intimidate) Speech 30 → Strength 7, Speech 30
+
+Cliff Briscoe:
+CliffBriscoeBarterCheck Barter 30 → Endurance 6, Barter 30
+CliffBriscoeScienceRocket Science 40 → Perception 6, Science 30 OR Science 40
+
+Aurelius of Phoenix:
+VFreeformCottonwoodCoveNVCCAureliusTopic003 Barter 35 → Endurance 6, Speech 25, Barter 35
+Benny:
+VDialogueBennyBennyTopic022 Speech 35 → Endurance 5, Speech 35
+VDialogueBennyBennyTopic024 Speech 50 → Charisma 7, Barter 30, Speech 40
+VDialogueBennyBennyTopic037 Speech 60 → Barter 30, Speech 60
+Added The perk tags for [Black Widow] and [Terrifying Presence] back in for clarity
+
+Beatrix Russell:
+VFreeformFreesideVFSBeatrixRussellTopic030 Speech 35 → Charisma 6, Speech 35
+Also slightly altered dialog string to be less ‘bartery’
+VFreeformFreesideVFSBeatrixRussellTopic037 None → Charisma 5
+
+Crandon:
+VDialogueVegasNorthNorthVegasCrandonTopic000 Speech 45 → Charisma 5, Speech 45
+VDialogueVegasNorthNorthVegasCrandonTopic007 Barter 35 → Endurance 6, Barter 35
+
+Frank Weathers:
+vDialogueVegasEast21EFrankWeathersTopic002 Intelligence 5 → Intelligence 5, Perception 5
+vDialogueVegasEast21EFrankWeathersTopic018 Speech 35 → Agility 6, Speech 35
+vDialogueVegasEast21EFrankWeathersTopic024 Speech 35 → Strength 6, Speech 35
+vDialogueVegasEast21EFrankWeathersTopic027 Speech 35 → Agility 6, Speech 35
+
+Francine Garret:
+
+VFreeformFreesideFSFrancineGarretTopic016 Speech 35 → Barter 25, Survival 35
+VFreeformFreesideVFSFrancineGarretTopic001 Barter 35 → Barter 45
+VFreeformFreesideVFSFrancineGarretTopic008 Speech 35 → Barter 25, Survival 35
+VFreeformFreesideVFSFrancineGarretTopic016 Barter 35 → Barter 45
+
+Ralph:
+
+VFreeformFreesideVFSRalphTopic008 Speech 50 → Charisma 6, Speech 50
+VFreeformFreesideVFSRalphTopic013 Barter 50 → Endurance 6, Barter 50
+VFreeformFreesideVFSRalphTopic015 Science 60 → Agility 6, Science 60
+VFreeformFreesideVFSRalphTopic023 Speech 35 → Barter 35, Speech 35
+VFreeformFreesideVFSRalphTopic024 Barter 35 → Barter 35, Science 35
+VFreeformFreesideVFSRalphTopic025 Speech 50 → Charisma 7, Speech 50
+
+Tyrone:
+
+vFreeformSloanPrimmTyroneTopic004 Speech 40 → Agility 6, Speech 40
+vFreeformSloanPrimmTyroneTopic005 Barter 35 → Survival 25, Barter 35
+vFreeformSloanPrimmTyroneTopic010 [Black Widow] → Barter 25, [Black Widow]
+Also Added [Black Widow] back to topic for clarity
+vFreeformSloanPrimmTyroneTopic011 Strength 7 → Strength 7, Speech 25
+
+
+James Garret:
+
+VFreeformFreesideVFSJamesGarretTopic014 Speech 40 → Survival 30, Barter 40
+VFreeformFreesideVFSJamesGarretTopic015 Barter 40 → Agility 5, Barter 50
+VFreeformFreesideVFSJamesGarretTopic019 Speech 40 → Repair 30, Barter 40
+Also slightly altered topic to be more unique.
+VFreeformFreesideVFSJamesGarretTopic020  Barter 40 → Speech 30, Survival 40
+VFreeformFreesideVFSJamesGarretTopic042 Speech 70 → Endurance 6, Survival 50, Barter 60
+VMSTopsTalentPoolVFSJamesGarretTopic001 Speech 50 → Charisma 6, Speech 50
+VMSTopsTalentPoolVFSJamesGarretTopic002 Barter 50 → Agility 6, Barter 50
+VMSTopsTalentPoolVFSJamesGarretTopic003 Added [Terrifying Presence] to topic for clarity and slightly edited topic with more punctuation to be a little less cringe hopefully. 
+VMSTopsTalentPoolVFSJamesGarretTopic004 Barter 35 → Endurance 5, Barter 35
+VMSTopsTalentPoolVFSJamesGarretTopic005 Quests Completed → Quests Completed, Charisma 5
+
+Santiago:
+
+VFreeformFreesideVFSDebtAngeloTopic004 Barter 40 → Endurance 5, Barter 40
+VFreeformFreesideVFSDebtAngeloTopic009 None → Endurance 5, Unarmed 40
+VFreeformFreesideVFSDebtAngeloTopic010 Speech 50 → Agility 6, Speech 50
+VFreeformFreesideVFSDebtAngeloTopic011 Barter 40 → Strength 6, Barter 40
+VFreeformFreesideVFSDebtSantiagoTopic002 Speech 30 → Strength 6, Speech 30
+VFreeformFreesideVFSDebtSantiagoTopic003 Speech 40 → Barter 30, Speech 40
+
+Emily Ortal:
+
+vfreeformlucky38Lucky38FollowerEmilyTopic009 Intelligence 6 → Intelligence 5, Perception 6
+vfreeformlucky38Lucky38FollowerEmilyTopic017 Barter 40 → Charisma 6, Barter 40
+vfreeformlucky38Lucky38FollowerEmilyTopic024 Speech 35 → Charisma 6, Speech 35
+vfreeformlucky38Lucky38FollowerEmilyTopic030 Perception 6 → Perception 6, Speech 40
+vfreeformlucky38Lucky38FollowerEmilyTopic034 Added [Black Widow] back to topic for clarity, had to edit text slightly to fit it.
+vfreeformlucky38Lucky38FollowerEmilyTopic035 Added [Cherchez La Femme] back to the topic for clarity, had to edit text slightly to fit it.
+
+George: 
+
+VFreeformNellisNellisGeorgeTopic010 Barter 40 → Charisma 6, Barter 40
+VFreeformNellisNellisGeorgeTopic012 Speech 30 → Strength 6, Speech 30
+VFreeformNellisNellisGeorgeTopic021 Speech 60 → Barter 50, Speech 60
+
+Lady Jane:
+
+VFreeformFreesideVFSDebtLadyJaneTopic007 Speech 40 → Charisma 7, Barter 40
+VFreeformFreesideVFSDebtLadyJaneTopic016 Barter 40 → Intelligence 6, Sneak 40
+VFreeformFreesideVFSDebtLadyJaneTopic021 Perception 7 → Perception 7, Speech 40
+VFreeformFreesideVFSDebtLadyJaneTopic023 Added [Lady Killer] back to the topic for clarity
+
+Squatter Bill:
+
+SquattersIntimidate Speech 45 → Strength 7, Speech 45
+Big Sal: 
+
+
+vDialogueGomorrahGenericTopic007 Added [Terrifying Presence] back to topic for clarity
+vDialogueGomorrahVMS21BigSalTopic002 Barter 45 → Agility 7, Barter 45
+vDialogueGomorrahVMS21BigSalTopic006 Speech 53 → Medicine 47, Speech 53 (because i'm a psychopath. I also didn’t fix the grammatical error either)
+vDialogueGomorrahVMS21BigSalTopic008 Speech 50 → Survival 40, Speech 50
+vDialogueGomorrahVMS21BigSalTopic026 Speech 80 → Charisma 8, Speech 80
+
+Private Renolds:
+
+VTechatticupNVTechatticupNCRRenoldsTopic004 Barter 45 → Agility 6, Barter 45
+
+Lieutenant Monroe:
+
+VFreeformBoulderCityBCLieutenantMonroeTopic017 Barter 45 → Charisma 6, Barter 45
+
+Mr. House:
+
+
+VDialogueMrHouseMrHouseOUTDATEDTopic001 Barter 50 → Endurance 6, Barter 50
+VDialogueMrHouseMrHouseTopic033 Barter 50 → Endurance 6, Barter 50
+VDialogueMrHouseMrHouseTopic051 Speech 50 → Charisma 6, Speech 50
+VDialogueMrHouseMrHouseTopic057 Medicine 35 → Intelligence 6, Medicine 35
+VDialogueMrHouseMrHouseTopic221 Speech 50 → Agility 7, Speech 50
+VDialogueMrHouseMrHouseTopic268 Barter 50 → Perception 6, Barter 50
+VDialogueMrHouseMrHouseTopic391 Speech 75 → Luck 8, Speech 75
+
+Old Lady Gibson:
+
+DialogueOldLadyGibsonOldLadyGibsonTopic000 Added [Lady Killer] back to topic for clarity, had to slightly edit topic to fit
+DialogueOldLadyGibsonOldLadyGibsonTopic013 Barter 50 → Repair 35, Barter 45
+DialogueOldLadyGibsonOldLadyGibsonTopic014 Speech 50 → Charisma 8, Speech 50
+DialogueOldLadyGibsonOldLadyGibsonTopic024 Barter 70 → Agility 6, Charisma 7, Barter 70
+
+Orris:
+
+VFreeformFreesideVFSOrrisTopic006 Intelligence 6 → Perception 6, Intelligence 6
+VFreeformFreesideVFSOrrisTopic011 Barter 50 → Endurance 6, Barter 50
+
+Thomas Hildern:
+
+VFreeformVault22ThomasHildernTopic013 Speech 30 → Charisma 6, Speech 30
+VMS06ThomasHildernTopic045 Speech 50 → Endurance 6, Speech 50
+VMS06ThomasHildernTopic046 Barter 50 → Perception 6, Barter 50
+VMS06ThomasHildernTopic068 Speech 40 → Survival 30, Barter 40
+
+The Lonesome Drifter:
+
+VMSTopsTalentPoolVMSTopsLonesomeDrifterTopic003 Barter 50 → Charisma 6, Barter 50
+VMSTopsTalentPoolVMSTopsLonesomeDrifterTopic012 Added [Lady Killer] Back to topic
+
+Antony:
+
+VFreeformTheFortFortAntonyTopic009 Barter 50 → Survival 40, Barter 50 
+VFreeformTheFortFortAntonyTopic013 added [Animal Friend] Back to topic
+
+Alice McLafferty:
+
+VDialogueCrimsonCaravanAliceMcLaffertyTopic020 Speech 75 → Charisma 7, Speech 75
+VDialogueCrimsonCaravanAliceMcLaffertyTopic022 Barter 65 → Perception 7, Barter 65
+
+Cass:
+
+VDialogueCassRoseofSharonCassidyTopic010 Barter 75 → Charisma 7, Barter 75
+VDialogueCassRoseofSharonCassidyTopic022 Speech 75 → Charisma 7, Speech 75
+VDialogueCassRoseofSharonCassidyTopic127 Speech 65 → Charisma 7, Speech 65
+VDialogueCassRoseofSharonCassidyTopic128 Speech 65 → Charisma 7, Speech 65
+VDialogueCassRoseofSharonCassidyTopic129 Speech 85 → Charisma 8, Speech 85
+VDialogueCassRoseofSharonCassidyTopic130 Speech 65 → Charisma 7, Speech 65
+VDialogueCassRoseofSharonCassidyTopic154 Added [Lady Killer] back to topic
+
+Tommy Torini:
+
+VMSTopsTalentPoolVMSTopsTommyToriniTopic002 Barter 25 → Endurance 6, Barter 25
+VMSTopsTalentPoolVMSTopsTommyToriniTopic003 Speech 25 → Charisma 6, Speech 25
+VMSTopsTalentPoolVMSTopsTommyToriniTopic009 Barter 50 → Endurance 6, Barter 50
+VMSTopsTalentPoolVMSTopsTommyToriniTopic011 Barter 25 → Endurance 6, Barter 25
+VMSTopsTalentPoolVMSTopsTommyToriniTopic013 Barter 25 → Endurance 6, Barter 25
+
+Pacer:
+
+VFreeformFreesideVFSPacerTopic004 Barter 50 → Charisma 6, Barter 50
+VFreeformFreesideVFSPacerTopic006 Speech 60 → Charisma 7, Speech 60
+VFreeformFreesideVFSPacerTopic011 Speech 75 → Intelligence 7, Speech 75
+VMS19VFSPacerTopic001 Barter 50 → Endurance 6, Barter 50
+
+Greasy Johnny:
+
+VDialogueVegasNorth1EWatchFiend1Topic004 Speech 65 → Charisma 7, Speech 65
+VDialogueVegasNorth1EWatchFiend1Topic007 Added [Terrifying Presence] back to topic
+VDialogueVegasNorth1EWatchFiend1Topic009 Barter 50 → Charisma 6, Barter 50
+
+Sgt. Daniel Contreras:
+
+VFreeformMcCarranSupplyOfficerContrerasTopic004 Speech 50 → Charisma 6, Speech 50
+VFreeformMcCarranSupplyOfficerContrerasTopic005 Barter 50 → Survival 40, Barter 50
+VFreeformMcCarranSupplyOfficerContrerasTopic013 Speech 80 → Charisma 8, Speech 80
+VFreeformMcCarranSupplyOfficerContrerasTopic015 Barter 50 → Endurance 7, Barter 50
+VFreeformMcCarranSupplyOfficerContrerasTopic029 Barter 70 → Intelligence 7, Barter 70
+
+Clanden:
+ 
+vDialogueGomorrahVMS21ClandenTopic005 Speech 45 → Charisma 6, Speech 45
+vDialogueGomorrahVMS21ClandenTopic008 Science 60 → Explosives 25, Science 60
+vDialogueGomorrahVMS21ClandenTopic019 Barter 50 → Endurance 6, Barter 50
+
+[Boomer] Jack:
+
+VFreeformNellisNellisJackTopic003 Speech 35 → Charisma 7, Speech 35
+VFreeformNellisNellisJackTopic017 Added [Confirmed Bachelor] back to topic for clarity
+VFreeformNellisNellisJackTopic035 Speech 35 → Agility 6, Speech 35
+VFreeformNellisNellisJackTopic039 Science 45 → Repair 35, Science 45
+VFreeformNellisNellisJackTopic047 Added [Black Widow] Back to topic for clarity
+
+[Khan] Jack:
+
+VMS45VRRCJackTopic000 Speech 60 → Agility 6, Speech 60
+VMS46VRRCJackTopic000 Speech 66 → Charisma 7, Speech 66
+
+Diane: 
+
+VMS46VRRCDianeTopic010 Barter 50 → Charisma 6, Barter 50
+
+Gomorrah Receptionist:
+
+vDialogueGomorrahGenericTopic006 Added [Lady Killer] back to topic for clarity
+vDialogueGomorrahGenericvGOMReceptionistTopic002 Strength 8 → Strength 7, Unarmed 50
+vDialogueGomorrahvGOMReceptionistTopic001 Speech 28 → Charisma 7, Speech 28
+vDialogueGomorrahvGOMReceptionistTopic002 added [Cherchez La Femme] back to topic for clarity
+
+Philippe:
+
+VMS18VMS18PhilippeTopic006 Barter 55 → Charisma 6, Barter 55
+VMS18VMS18PhilippeTopic009 Medicine 55 → Perception 6, Medicine 55
+VMS18VMS18PhilippeTopic018 Speech 55 → Agility 6, Speech 55
+VMS18VMS18PhilippeTopic022 Speech 55 → Luck 7, Speech 55
+
+Cachino:
+
+vDialogueGomorrahVMS21CachinoTopic022 Speech 80 → Sneak 60, Speech 80
+
+Alice Hostetler: 
+
+VDialogueVegasNorthNorthVegasAliceHostetlerTopic004 Speech 70 → Charisma 7, Speech 70
+VDialogueVegasNorthNorthVegasAliceHostetlerTopic016 Intelligence 7 → Medicine 50, Speech 70
+VDialogueVegasNorthNorthVegasAliceHostetlerTopic064 Speech 75 → Intelligence 7, Speech 75
+
+Motor Runner:
+
+VMS07V03MotorRunnerTopic002 Speech 25 → Charisma 6, Speech 25
+VMS07V03MotorRunnerTopic011 Barter 65 → Agility 6, Barter 65
+VMS07V03MotorRunnerTopic025 Speech 75 → Endurance 6, Speech 75
+VMS07V03MotorRunnerTopic027 Barter 60 → Charisma 6, Barter 60
+
+Agent Keller:
+
+VFreeformMcCarranNVNCRAgentKellerTopic013 Charisma 7 → Charisma 7, Speech 50
+VFreeformMcCarranNVNCRAgentKellerTopic014 Perception 7 → Perception 7, Survival 40
+VFreeformMcCarranNVNCRAgentKellerTopic016 Speech 80 → Charisma 8, Speech 80
+VFreeformMcCarranNVNCRAgentKellerTopic018 Barter 70 → Charisma 6, Barter 70
+VFreeformMcCarranNVNCRAgentKellerTopic019 Intelligence 7 → Intelligence 7, Sneak 50
+VFreeformMcCarranNVNCRAgentKellerTopic031 Speech 60 → Luck 7, Speech 60
+VFreeformMcCarranNVNCRAgentKellerTopic032 Speech 70 → Sneak 40, Speech 60
+VFreeformMcCarranNVNCRAgentKellerTopic042 Barter 80 → Endurance 7, Charisma 8, Barter 80
+VFreeformMcCarranNVNCRAgentKellerTopic043 Speech 80 → Charisma 7, Agility 8, Barter 70
+
+Random Omerta Thug (Joana Quest):
+
+VMS21aVMS21aOmertaThug01Topic005 Speech 75 → Agility 7, Speech 75
+VMS21aVMS21aOmertaThug01Topic006 Speech 85 → Sneak 65, Speech 85
+VMS21aVMS21aOmertaThug01Topic009 Strength 8 → Strength 8, Survival 50
+VMS21aVMS21aOmertaThug01Topic010 Strength 9 → Strength 9, Speech 60
+VMS21aVMS21aOmertaThug01Topic013 Barter 85 → Charisma 6, Barter 65
+VMS21aVMS21aOmertaThug01Topic015 Barter 75 → Charisma 6, Barter 50
+
+Random Omerta Thug 2:
+
+VMS33VMS33OmertaThug01Topic001 Speech 50 → Strength 6, Speech 50
+
+Red Lucy:
+
+VMS38VMS38RedLucyTopic227 Barter 50 → Survival 30, Barter 50
+VMS38VMS38RedLucyTopic244 Barter 60 → Endurance 6, Barter 60
+VMS38VMS38RedLucyTopic254 Barter 70 → Survival 50, Barter 70
+VMS38VMS38RedLucyTopic265 Barter 80 → Charisma 7, Barter 80
+VMS38VMS38RedLucyTopic275 Barter 90 → Endurance 6, Survival 70, Barter 90
+
+Legate Lanius:
+
+VFreeformHooverDamVHDLegionLegateLaniusTopic008 Speech 60 → Luck 6, Speech 60
+VFreeformHooverDamVHDLegionLegateLaniusTopic009 Speech 75 → Agility  6, Luck 7, Speech 75
+VFreeformHooverDamVHDLegionLegateLaniusTopic012 Speech 90 → Agility 6, Luck 8, Speech 90
+VFreeformHooverDamVHDLegionLegateLaniusTopic028 Speech 90 → Agility 6, Luck 9, Speech 90
+VFreeformHooverDamVHDLegionLegateLaniusTopic050 Speech 80 → Endurance 7, Speech 80
+VFreeformHooverDamVHDLegionLegateLaniusTopic059 Barter 55 → Intelligence 6, Barter 55
+VFreeformHooverDamVHDLegionLegateLaniusTopic060 Barter 75 → Intelligence 7, Barter 75
+VFreeformHooverDamVHDLegionLegateLaniusTopic063 Barter 90 → Charisma 6, Intelligence 8, Barter 90
+VFreeformHooverDamVHDLegionLegateLaniusTopic064 Barter 100 → Charisma 7, intelligence 8, Barter 100
+VFreeformHooverDamVHDLegionLegateLaniusTopic065 Speech 75 → Charisma 7, Intelligence 7, Speech 75
+VFreeformHooverDamVHDLegionLegateLaniusTopic073 Speech 100 → Charisma 8, Speech 100
+VFreeformHooverDamVHDLegionLegateLaniusTopic074 Barter 100 → Charisma 7, Intelligence 9, Barter 100
+VFreeformHooverDamVHDLegionLegateLaniusTopic078 Speech 55 → Charisma 6, Speech 55
+VFreeformHooverDamVHDLegionLegateLaniusTopic079 Speech 65 → Charisma 7, Speech 65
+VFreeformHooverDamVHDLegionLegateLaniusTopic081 Speech 75 → Intelligence 6, Charisma 8, Speech 75
+VFreeformHooverDamVHDLegionLegateLaniusTopic083 Speech 85 → Intelligence 7, Charisma 8, Speech 85
+VFreeformHooverDamVHDLegionLegateLaniusTopic088 Speech 100 → Intelligence 7, Charisma 9, Speech 100
+VFreeformHooverDamVHDLegionLegateLaniusTopic093 Speech 100 → Intelligence 7, Charisma 9, Speech 100
+VFreeformHooverDamVHDLegionLegateLaniusTopic097 Speech 100 → Intelligence 7, Charisma 9, Speech 100
+
+General Oliver:
+
+VFreeformHooverDamVHDGeneralOliverTopic025 Speech 50 → Charisma 6, Speech 50
+VFreeformHooverDamVHDGeneralOliverTopic032 Speech 100 → Charisma 8, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic076 Speech 100 → Endurance 8, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic079 Speech 100 → Luck 9, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic080 Science 100 → Science 100, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic081 Repair 100 → Repair 100, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic083 Speech 100 → Strength 7, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic085 Speech 85 → Endurance 6, Speech 85
+VFreeformHooverDamVHDGeneralOliverTopic087 Speech 75 → Luck 7, Speech 75
+VFreeformHooverDamVHDGeneralOliverTopic091 Speech 75 → Intelligence 6, Speech 75
+VFreeformHooverDamVHDGeneralOliverTopic093 Speech 85 → Intelligence 6, Speech 85
+VFreeformHooverDamVHDGeneralOliverTopic094 Speech 75 → Endurance 6, Speech 75
+VFreeformHooverDamVHDGeneralOliverTopic099 Speech 100 → Perception 6, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic102 Barter 75 → Barter 75, Speech 75
+VFreeformHooverDamVHDGeneralOliverTopic103 Barter 100 → Barter 100, Speech 100
+VFreeformHooverDamVHDGeneralOliverTopic104 Science 75, Speech 50, Science 75
+VFreeformHooverDamVHDGeneralOliverTopic105 Science 100, Barter 76, Science 75
+
+Easy Pete:
+
+VFreeformGoodspringsGoodspringsEasyPeteTopic001 Explosives 25 → Charisma 6, Explosives 25
+
+Pete (Boomer): 
+
+VFreeformNellisNellisPeteTopic019 Explosives 40 → Charisma 6, Explosives 40
+VFreeformNellisNellisPeteTopic023 Science 35 → Survival 20, Science 35
+VFreeformNellisNellisPeteTopic031 Survival 40 → Medicine 25, Survival 40
+VFreeformNellisNellisPeteTopic035 Speech 40 → Charisma 6, Speech 40
+VFreeformNellisNellisPeteTopic039 Speech 55 → Charisma 7, Speech 55
+VFreeformNellisNellisPeteTopic043 Repair 40 → Intelligence 6, Repair 40
+
+Mags:
+
+VFreeformCampGolf2CMagsTopic002 Speech 40 → Charisma 6, Speech 40
+
+Cato Hostillius:
+
+VHDAssassinationDialogVHDCatoHostiliusTopic023 Explosives 50 → Charisma 6, Explosives 50
+VHDAssassinationDialogVHDCatoHostiliusTopic027 Explosives 50 → Charisma 6, Explosives 50
+
+Decanus Severus: 
+
+VFreeformCottonwoodCoveNVCCSeverusTopic046 Explosives 50 → Agility 6, Explosives 50
+
+Alexander:
+
+
+188AlexanderSeeInventory Guns 40 → Charisma 6, Guns 40
+
+Carlyle St. Clair: 
+
+VMS18VMS18CarlyleStClairTopic000 Added [Black Widow] back to topic for clarity. 
+VMS18VMS18CarlyleStClairTopic003 Strength 7 → Strength 6, Unarmed 50
+VMS18VMS18CarlyleStClairTopic004 Medicine 45 → Speech 30, Medicine 45
+VMS18VMS18CarlyleStClairTopic005 Unarmed 45 → Medicine 30, Melee Weapons 45
+VMS18VMS18CarlyleStClairTopic006 Guns 45 → Luck 6, Guns 45
+VMS18VMS18CarlyleStClairTopic011 Speech 45 → Charisma 6, Speech 45
+
+Jules:
+
+VDialogueVegasNorthNorthVegasJulesTopic006 Guns 50 → Speech 50, Guns 50
+VDialogueVegasNorthVOVNVJulesTopic002 Survival 60 → Charisma 7, Survival 60
+
+Dr Richards:
+
+VMS30VCFHAlexRichardsTopic004 Medicine 20 → Charisma 5, Medicine 20
+VMS30VCFHAlexRichardsTopic020 Medicine 35 → Perception 6, Medicine 35
+
+Doc Mitchell:
+
+VFreeformGoodspringsDocMitchellTopic004 Medicine 25 → Perception 6, Medicine 25
+
+Troike:
+
+vDialogueGomorrahVMS21TroikeTopic008 Medicine 30 → Perception 6, Medicine 30
+vDialogueGomorrahVMS21TroikeTopic015 Speech 80 → Sneak 50, Speech 80
+vDialogueGomorrahVMS21TroikeTopic016 Speech 30 → Agility 6, Speech 30
+vDialogueGomorrahVMS21TroikeTopic023 Speech 70 → Agility 7, Speech 70
+
+Dazzle: 
+
+vDialogueGomorrahDazzleTopic011 Medicine 35 → Charisma 6, Medicine 35
+vDialogueGomorrahDazzleTopic012 Speech 35 → Charisma 7, Speech 40
+vDialogueGomorrahDazzleTopic013 Added [Black Widow] back to topic for clarity
+vDialogueGomorrahDazzleTopic015 Added [Lady Killer] back to topic
+
+Argyll: 
+
+VFreeformNellisNellisArgyllTopic001 Medicine 40 → Charisma 6, Medicine 40
+VFreeformNellisNellisArgyllTopic003 Speech 35 → Luck 6, Speech 35
+
+Corporal Betsy:
+
+VFreeformMcCarran31ECorporalBetsyTopic019 Added [Cherchez La Femme] back to topic for clarity
+VFreeformMcCarran31ECorporalBetsyTopic023 Medicine 40 → Charisma 6, Medicine 40
+VFreeformMcCarran31ECorporalBetsyTopic029 Speech 60 → Agility 6, Speech 60
+
+Joana:
+
+vDialogueGomorrahGenericTopic006 Added [Lady Killer] back to topic for clarity
+vDialogueGomorrahVMS21JoanaTopic029 Speech 50 → Charisma 6, Speech 50
+vDialogueGomorrahVMS21JoanaTopic040 Speech 75 → Charisma 7, Speech 75
+vDialogueGomorrahVMS21JoanaTopic041 Added  [Cherchez La Femme] back to topic for clarity
+vDialogueGomorrahVMS21JoanaTopic070 Speech 75 → Charisma 7, Speech 75
+vDialogueGomorrahVMS21JoanaTopic072 Medicine 50 → Perception 6, Medicine 50
+vDialogueGomorrahVMS21JoanaTopic075 Speech 40 → Endurance 6, Speech 40
+vDialogueGomorrahVMS21JoanaTopic078 Speech 50 → Endurance 7, Speech 50
+
+Denis Crocker:
+
+VMS29VStreetDennisCrockerTopic011 Medicine 50 → Sneak 40, Medicine 50
+VMS29VStreetDennisCrockerTopic025 Barter 60 → Charisma 6, Barter 60
+VMS29VStreetDennisCrockerTopic045 Medicine 50 → Sneak 40, Medicine 50
+
+Lucius: 
+
+VFreeformTheFortFortLuciusTopic032 Speech 50 → Agility 6, Speech 50
+VFreeformTheFortFortLuciusTopic033 Medicine 50 → Speech 25, Medicine 50
+
+Private Halford:
+
+vFreeformCampGuardianNVCGHalfordTopic007 Medicine 50 → Perception 6, Medicine 50
+vFreeformCampGuardianNVCGHalfordTopic014 Speech 50 → Charisma 6, Speech 50
+
+White Glove Dude:
+
+VMS18Topic002 Repair 35 → Sneak 35, Repair 35
+VMS18Topic003 Speech 55 → Sneak 45, Speech 55
+
+Captain Gilles:
+
+CaptainGillesRadioactiveSuppliesScience Science 25 → Survival 25, Science 25
+
+Primm Slim:
+
+PrimmSlimGunScience Science 50 → Perception 6, Science 50
+
+Loyal: 
+
+VFreeformNellisNellisLoyalTopic003 Science 50 → Intelligence 6, Science 50
+VFreeformNellisNellisLoyalTopic004 Speech 50 → Charisma 50, Speech 50
+VFreeformNellisNellisLoyalTopic032 Speech 50 → Charisma 50, Speech 50
+VFreeformNellisNellisLoyalTopic036 Intelligence 7 → Intelligence 7, Sneak 50
+
+Jacob Hoff:
+
+VFreeformFreesideVFSBillRonteTopic021 Science 50 → Medicine 50, Speech 50
+VFreeformFreesideVFSJacobHoffTopic010 Speech 50 → Charisma 7, Speech 50
+Bill Ronte:
+
+VFreeformFreesideVFSBillRonteTopic020 Speech 50 → Charisma 7, Speech 50
+VFreeformFreesideVFSBillRonteTopic022 Science 50 → Medicine 50, Science 50
+
+Keely:
+
+VFreeformVault22KeelyTopic017 Science 70 → Intelligence 6, Science 70
+VFreeformVault22KeelyTopic046 Speech 50 → Intelligence 6, Speech 50
+
+Scribe Ibsen:
+
+VDialogueHiddenValleyHVScribeIbsenTopic017 Science 70 → Intelligence 7, Science 70
+
+Swank:
+
+VMQTopsVMQTopsSwankTopic026 Added [Black Widow] back to topic for clarity
+VMQTopsVMQTopsSwankTopic018 Speech 30 → Charisma 5, Speech 30
+VMQTopsVMQTopsSwankTopic020 Speech 45 → Charisma 6, Speech 45
+VMQTopsVMQTopsSwankTopic021 Speech 60 → Charisma 7, Speech 60
+
+Joe Cobb:
+
+VFreeformGoodspringsGSJoeCobbTopic013 Speech 20 → Charisma 5, Speech 20
+VFreeformGoodspringsGSJoeCobbTopic015 Intelligence 6 → Intelligence 6, Barter 20
+
+Pearl:
+
+VFreeformNellisNellisPearlTopic007 Speech 50 → Charisma 6, Speech 50
+VFreeformNellisNellisPearlTopic008 Added [Lady Killer] back to topic
+
+Karl: 
+
+KarlGreatKhans Speech 25 → Agility 5, Speech 25
+VMS45VRRCKarlTopic001 Added [Terrifying Presence] and slightly edited text to fit
+VMS45VRRCKarlTopic002 Speech 50 → Agility 6, Speech 50
+VMS45VRRCKarlTopic003 Speech 75 → Agility 6, Speech 75
+
+Deputy Beagle: 
+
+BeagleHostageFleeSpeech Speech 25 → Strength 6, Speech 25
+nVPrimmDeputyConvPrimmDeputyTopic002 Speech 40 → Endurance 6, Speech 40
+
+Angela Williams:
+
+VFreeformVault22AngelaKearnyTopic025 Speech 25 → Perception 6, Speech 25
+VFreeformVault22AngelaKearnyTopic030 Speech 50 → Sneak 30, Speech 50
+
+Private Ortega:
+
+VDialogueVegasEast1ESharecropperTrooperCFTopic007 Speech 25 → Charisma 6, Speech 25
+
+Ranger Milo:
+
+VNelsonNVNelsonRangerMiloTopic015 Endurance 5, Speech 35
+VNelsonNVNelsonRangerMiloTopic017 Endurance 6, Speech 45
+VNelsonNVNelsonRangerMiloTopic020 Endurance 5, Speech 25
+VNelsonNVNelsonRangerMiloTopic030 Charisma 6, Speech 45
+
+Cannibal Johnson:
+
+VFreeformDevilsBrigadeCannibalJohnsonTopic011 Speech 30 → Charisma 6, Speech 30
+
+Bitter Root:
+
+VFreeformMcCarran31ESergeantBitterRootTopic005 Speech 30 → Charisma 6, Speech 30
+VFreeformMcCarran31ESergeantBitterRootTopic014  Intelligence 7 → Intelligence 7, Speech 25
+
+Chavez:
+
+VFreeformNCRCFNCRCFChavezTopic003 Speech 30 → Agility 6, Speech 30
+
+Ranger Andy:
+
+RangerAndyStationReportLie Speech 60 → Sneak 35, Speech 60
+RangerAndyUsefulKnowledge Speech 30 → Charisma 6, Speech 30
+
+Comm Officer Lenk:
+
+vDialogueRangerStationFoxtrotRSFoxtrotLenkTopic006 Speech 30 → Endurance 5, Speech 30
+
+Traveling Merchant (I Fought the Law):
+
+VMS02VMS02WaterMerchantTopic003 Intelligence 6 → Perception 6, Survival 30
+VMS02VMS02WaterMerchantTopic004 Speech 30 → Charisma 6, Speech 30
+VMS02VMS02WaterMerchantTopic007 Speech 30 → Intelligence 6, Survival 30
+
+Major Knight:
+
+vMojavevMOMajorKnightTopic010 Barter 20 → Intelligence 5, Barter 20
+vMojavevMOMajorKnightTopic011 Speech 30 → Charisma 5, Speech 30
+
+Lt. Haggerty:
+
+VMS03HaggertyBrother Speech 30 → Sneak 20, Speech 30
+VMS03LtHaggertyTopic001 Added [Terrifying Presence] back to topic
+
+Dixon:
+
+VFreeformFreesideVFSHighTimesDealerTopic010 Speech 35 → Agility 6, Speech 35
+
+Ted Gunderson:
+
+VMS18VMS18TedGundersonTopic012 Speech 38 → Charisma 6, Speech 40
+
+Ignacio Rivas:
+
+VMS03IgnacioRivasTopic000 Added [Confirmed Bachelor] back to topic
+VMS03IgnacioYouFirst Speech 35 → Agility 6, Speech 35
+
+Caleb McCaffery:
+
+VFreeformFreesideVFSCalebMcCaffery2Topic004 Speech 40 → Luck 7, Speech 40
+
+Grecks:
+
+VFreeformFreesideVFSDebtGrecksTopic007 Speech 40 → Strength 6, Speech 40
+VFreeformFreesideVFSDebtGrecksTopic009 Added [Terrifying Presence] back to topic
+VFreeformFreesideVFSDebtGrecksTopic010 Speech 60 → Strength 7, Speech 60
+
+Boone:
+
+CraigBooneCulpritObvious Speech 55 → Luck 6, Speech 55
+CraigBooneSnipersWorkInTeams Intelligence 6 →  Intelligence 6, Guns 25
+VDialogueCraigBooneCraigBooneTopic000 Speech 41 → Charisma 6, Speech 40
+
+Jessup:
+
+VFreeformBoulderCityBCJessupTopic042 Speech 45 → Endurance 6, Speech 45
+
+Neil: 
+
+BMNeilAskForHelpSpeech Speech 50 → Charisma 6, Speech 50
+
+Tomas:
+
+VFreeformSSHQSSHQTomasTopic008 Speech 50 → Charisma 6, Speech 50 
+VFreeformSSHQSSHQTomasTopic010 Added [Terrifying Presence] back to topic
+
+Chris Haversam: 
+
+ChrisHavLabYoureNoGhoul Speech 50 → Charisma 6, Speech 50
+Added [Black Widow] back to topic
+
+Oscar Velasco:
+
+VMS37VBSOscarVelascoTopic001 Speech 50 → Charisma 6, Speech 50
+VMS37VBSOscarVelascoTopic008 Speech 25 → Charisma 6, Speech 25
+VMS37VBSOscarVelascoTopic009 Speech 25 → Charisma 7, Speech 25 (Needs Testing)
+
+Logan:
+
+VMS44CampSearchlightLoganTopic041 Speech 50 → Barter 30, Speech 50 
+
+Old Ben:
+
+VFreeformFreesideVFSOldBenTopic018 Speech 50 → Charisma 7, Speech 50
+VFreeformFreesideVFSOldBenTopic019 Added [Black Widow] back to topic
+VFreeformFreesideVFSOldBenTopic021 Added [Confirmed Bachelor] back to topic
+
+Raquel:
+
+VFreeformNellisNellisRaquelTopic021 Speech 55 → Sneak 40, Speech 55
+
+Keith:
+
+KeithDice Speech 60 → Speech 40, Sneak 60
+KeithDrugs Barter 45 → Barter 35, Survival 45
+
+Private Edwards:
+
+VMS43CampSearchlightPvtEdwardsTopic010 Speech 60 → Sneak 35, Speech 60
+VMS43CampSearchlightPvtEdwardsTopic078 Speech 60 → Sneak 35, Speech 60
+VMS43CampSearchlightPvtEdwardsTopic079 Speech 60 → Charisma 7, Speech 60
+VMS43CampSearchlightPvtEdwardsTopic102 Strength 7 → Strength 7, Speech 40
+
+Private Stone:
+
+VMS31VCFHPrivateStoneTopic005 Medicine 50 → Perception 6, Medicine 50
+VMS31VCFHPrivateStoneTopic010 Speech 50 → Charisma 7, Speech 50
+VMS31VCFHPrivateStoneTopic027 Speech 60 → Endurance 6, Speech 60
+
+Mortimer:
+
+VMS18VMS18MortimerTopic012 added [Cannibal] back to topic
+VMS18VMS18MortimerTopic013 Speech 62 → Sneak 40, Speech 60
+
+Fiend (Entrance of Vault 3):
+
+VMS07V03FiendShooterTopic003 Speech 64 → Agility 6, Speech 65
+
+Gambler (Silver Rush): 
+
+VMS29aVFSSilverRushGamblerCustomerTopic004 Speech 65 → Charisma 7, Speech 65
+
+Norton:
+
+vDialogueJacobstownJacobstownNortonTopic003 Speech 65 → Strength 7, Speech 65
+vDialogueJacobstownJacobstownNortonTopic004 Barter 65 → Agility 6, Barter 65
+
+Caesar:
+
+VDialogueCaesarFortCaesarTopic030 Medicine 40 → Intelligence 6, Medicine 40
+VDialogueCaesarFortCaesarTopic030DUPLICATE000 Medicine 40 → Intelligence 6, Medicine 40
+VDialogueCaesarFortCaesarTopic033 Speech 55 → Intelligence 6, Speech 55
+VDialogueCaesarFortCaesarTopic035 Medicine 40 → Perception 6, Medicine 40 
+VDialogueCaesarFortCaesarTopic046 Medicine 40 → Charisma 6, Medicine 40
+VDialogueCaesarFortCaesarTopic049 Medicine 40 → Intelligence 6, Medicine 40
+VDialogueCaesarFortCaesarTopic052 Medicine 40 → Charisma 6, Medicine 40
+VDialogueCaesarFortCaesarTopic056 Medicine 50 → Intelligence 7, Medicine 50
+VDialogueCaesarFortCaesarTopic057 Speech 60 → Luck 7, Speech 60
+VDialogueCaesarFortCaesarTopic058 Medicine 75 → Intelligence 7, Medicine 75
+VDialogueCaesarFortCaesarTopic079 Added [Terrifying Presence] Back to topic
+VDialogueCaesarFortCaesarTopic080 Speech 65 → Luck 8, Speech 65
+
+Strange Man (Birds of a Feather):
+
+VMS29aVFSSilverRushLegionContactTopic006 Speech 75 → Sneak 50, Speech 75
+
+Arcade Gannon (Lots of hidden checks with this one, I left a lot of them as they were):
+
+VDialogueArcadeGannonVFSArcadeGannonTopic022 Speech 75 → Charisma 7, Speech 75
+VDialogueArcadeGannonVFSArcadeGannonTopic031 Added [Confirmed Bachelor] back to topic
+VDialogueArcadeGannonVFSArcadeGannonTopic062 Intelligence 1, Science <50 → Intelligence 1, Science <50
+I changed the topic in GECK since if I had left it as is, it would have displayed as just [Science…] since with this mod, the AV/Perk field loses its original functionality and instead operates more like a true or false flag 
+VDialogueArcadeGannonVFSArcadeGannonTopic084 Intelligence 6 → Perception 6, Intelligence 6
+VDialogueArcadeGannonVFSArcadeGannonTopic117 Intelligence 7 → Intelligence 7, Speech 50
+VDialogueArcadeGannonVFSArcadeGannonTopic131 Intelligence 7 → Intelligence 7, Survival 40
+VDialogueArcadeGannonVFSArcadeGannonTopic139 Speech 80 → Charisma 7, Speech 80
+VDialogueArcadeGannonVFSArcadeGannonTopic141 Speech 80 → Charisma 7, Speech 80
+But I left the AV/Perk field empty as it was originally. Maybe it was a mistake, maybe not. 
+VDialogueArcadeGannonVFSArcadeGannonTopic150 Intelligence 8 → Intelligence 8, Speech 60
+
+Tabitha:
+
+BMTabithaDishHutRadioSpeech
+Hidden Speech 40 → Luck 6, Speech 40
+Speech 75 → Luck 7, Speech 75
+
+Keene:
+
+VMS41JacobstownKeeneTopic001 Speech 80 → Endurance 7, Speech 80
+
+Isaac:
+
+vDialogueGunRunnerNVIsaacTopic003 Barter 80 → Agility 8, Speech 80
+vDialogueGunRunnerNVIsaacTopic004 Speech 80 → Speech 50, Repair 80
+
+Orion:
+
+VDialogueRemnantsVRemOrionMorenoTopic008 Speech 80 → Charisma 8, Speech 80 
+
+Hector:
+
+vDialogueWestsideWestsideHectorTopic011 Speech 80 → Charisma 7, Speech 80
+vDialogueWestsideWestsideHectorTopic013 Added [Child at Heart] to topic
+
+Brotherhood Paladin (I Could Make You Care):
+
+VMS49VMS49PaladinLeaderTopic006 Added [Terrifying Presence] back to topic
+VMS49VMS49PaladinLeaderTopic003 Speech 95 → Charisma 8, Speech 95
+
+Nobark Noonan:
+
+NobarkYoureGoingToTalk Strength 6 → Strength 6, Speech 25
+
+Vagrant: 
+
+VFreeformFreesideVMS49VagrantTopic002 Strength 7 → Strength 7, Speech 50
+
+Walter Phebus:
+
+VMS25WalterPhebusTopic000 Perception 7 → Perception 7, Speech 40
+VMS25WalterPhebusTopic014 Barter 90 → Endurance 7, Barter 90
+VMS25WalterPhebusTopic026 Barter 70 → Endurance 6, Barter 70
+VMS25WalterPhebusTopic034 Barter 80 → Endurance 6, Barter 80
+VMS25WalterPhebusTopic059 Speech 75 → Charisma 6, Speech 75
+VMS25WalterPhebusTopic073 Barter 90 → Endurance 7, Barter 90
+VMS25WalterPhebusTopic076 Barter 80 → Endurance 6, Barter 80
+VMS25WalterPhebusTopic077 Barter 70 → Endurance 6, Barter 70
+
+Sarah Weintraub:
+
+VFreeformTheStreet01SarahWeintraubTopic011 Speech 55 → Charisma 6, Barter 55
+VFreeformTheStreet01SarahWeintraubTopic024 Speech 65 → Charisma 7, Speech 65
+VFreeformTheStreet01SarahWeintraubTopic039 Perception 8 → Perception 8, Medicine 60
+VFreeformTheStreet01SarahWeintraubTopic049 Speech 75 → Charisma 8
+VFreeformTheStreet01SarahWeintraubTopic055 Barter 65 → Speech 30, Repair 65
+VFreeformTheStreet01SarahWeintraubTopic057 Barter 65 → Speech 30, Repair 65
+VFreeformTheStreet01SarahWeintraubTopic059 Barter 65 → Speech 30, Repair 65
+
+Repconn Maintenance Robot:
+
+REPCONHQInt Intelligence 7 → Intelligence 6, Science 40
+REPCONHQSpeech Speech 60 → Agility 6, Speech 60
+REPCONHQSpeech2 Science 35 → Agility 6, Lockpick 40
+REPCONHQSpeech4 Repair 35 → Perception 6, Repair 40
+
+
+Honest Hearts:
+
+Jed Masterson:
+
+NVDLC02DialogueCaravanMasterNVDLC02JedTopic003 Survival 50 → Charisma 6, Survival 50
+NVDLC02DialogueCaravanMasterNVDLC02JedTopic006 Added [Strong Back] back to topic
+ NVDLC02DialogueCaravanMasterNVDLC02JedTopic007 Added [Pack Rat] back to topic.
+NVDLC02DialogueCaravanMasterNVDLC02JedTopic017 Barter 45 → Perception 6, Barter 45
+
+Daniel: 
+
+NVDLC02DialogueDanielNVDLC02DanielTopic026 Speech 40 → Charisma 6, Speech 40
+NVDLC02DialogueDanielNVDLC02DanielTopic066 Barter 50 → Agility 6, Barter 50
+NVDLC02DialogueDanielNVDLC02DanielTopic068 Speech 65 → CHarisma 6, Speech 65
+NVDLC02DialogueDanielNVDLC02DanielTopic077 Speech 40 → Intelligence 6, Speech 40
+NVDLC02DialogueDanielNVDLC02DanielTopic082 Speech 50 → Charisma 6, Speech 50
+
+Ricky:
+
+NVDLC02DialogueRickyNVDLC02RickyTopic003 Guns 45 → Perception 3, Guns 45
+NVDLC02DialogueRickyNVDLC02RickyTopic006 Survival 20 → Perception 2, Survival 20
+NVDLC02DialogueRickyNVDLC02RickyTopic007 Added [Power Armor Training] back to topic
+NVDLC02DialogueRickyNVDLC02RickyTopic013 Medicine 45 → Perception 5, Medicine 45
+NVDLC02DialogueRickyNVDLC02RickyTopic014 Barter 50 → Charisma 5, Barter 50
+NVDLC02DialogueRickyNVDLC02RickyTopic037 Speech 50 → Agility 5, Speech 50
+NVDLC02DialogueRickyNVDLC02RickyTopic038 Science 45 → Perception 5, Science 45
+NVDLC02DialogueRickyNVDLC02RickyTopic043 Perception 7 → Perception 7, Survival 45
+NVDLC02DialogueRickyNVDLC02RickyTopic044 Perception 6 → Perception 6, Sneak 45
+
+Joshua Graham:
+
+NVDLC02DialogueJoshuaNVDLC02JoshuaTopic006 Speech 65 → Charisma 6, Intelligence 6, Speech 65
+NVDLC02DialogueJoshuaNVDLC02JoshuaTopic058 Speech 90 → Charisma 6, Intelligence 7, Speech 90
+NVDLC02DialogueJoshuaNVDLC02JoshuaTopic064 Speech 70 → Charisma 6, Speech 70
+
+Dead Money:
+
+Dean Domino:
+
+NVDLC01DeanDialogueNVDLC01DeanTopic002 Added [Black Widow] back to topic
+NVDLC01DeanDialogueNVDLC01DeanTopic009 Speech 75 → Intelligence 7, Speech 75
+NVDLC01DeanDialogueNVDLC01DeanTopic013 Explosives 25 → Endurance 6, Explosives 35
+NVDLC01DeanDialogueNVDLC01DeanTopic016 Speech 25 → Charisma 6, Speech 25
+NVDLC01DeanDialogueNVDLC01DeanTopic040 Barter 50 → Perception 6, Barter 50
+NVDLC01DeanDialogueNVDLC01DeanTopic050 Guns 50 → Charisma 6, Guns 50
+NVDLC01DeanDialogueNVDLC01DeanTopic114 Speech 25 → Agility 6, Speech 35
+NVDLC01DeanDialogueNVDLC01DeanTopic136 Speech 50 → Endurance 6, Speech 50
+NVDLC01DeanDialogueNVDLC01DeanTopic138 Repair 50 → Intelligence 7, Repair 50
+NVDLC01DeanDialogueNVDLC01DeanTopic141 Science 75 → Sneak 50, Science 75
+NVDLC01DeanDialogueNVDLC01DeanTopic153 Speech 65 → Endurance 7, Speech 65
+NVDLC01DeanDialogueNVDLC01DeanTopic192 Science 60 → Intelligence 6, Science 60
+NVDLC01DeanDialogueNVDLC01DeanTopic207 Added [Black Widow] back to topic
+NVDLC01DeanDialogueNVDLC01DeanTopic208 Barter 25 → Charisma 6, Barter 25
+NVDLC01DeanDialogueNVDLC01DeanTopic209 Speech 80 → Endurance 7, Speech 80
+NVDLC01DeanDialogueNVDLC01DeanTopic210 Repair 35 → Science 35, Repair 35
+
+Christine:
+
+NVDLC01ChristineDialogueNVDLC01ChristineTopic042 Medicine 75 → Perception 6, Medicine 75
+NVDLC01ChristineDialogueNVDLC01ChristineTopic065 Science 75 → Intelligence 6, Science 75
+NVDLC01ChristineDialogueNVDLC01ChristineTopic103 added [Cherchez La Femme] back to topic
+NVDLC01ChristineDialogueNVDLC01ChristineTopic105 added [Terrifying Presence] back to topic
+NVDLC01ChristineDialogueNVDLC01ChristineTopic125 Intelligence 5 → Intelligence 6, Science 60
+NVDLC01ChristineDialogueNVDLC01ChristineTopic126 Science 60 → Explosives 30, Energy Weapons 50
+NVDLC01ChristineDialogueNVDLC01ChristineTopic131 Explosives 60 → Energy weapons 30, Explosives 50
+NVDLC01ChristineDialogueNVDLC01ChristineTopic146 Intelligence 6 → Intelligence 6, Repair 40
+NVDLC01ChristineDialogueNVDLC01ChristineTopic155 Perception 6 → Perception 6, Survival 40
+NVDLC01ChristineDialogueNVDLC01ChristineTopic158 Intelligence 6 → Intelligence 6, Repair 40
+NVDLC01ChristineDialogueNVDLC01ChristineTopic168 Science 75 → Repair 40, Science 75
+NVDLC01ChristineDialogueNVDLC01ChristineTopic169 Explosives 35 → Perception 5, Explosives 35
+NVDLC01ChristineDialogueNVDLC01ChristineTopic175 Speech 75 → Charisma 6, Speech 75
+NVDLC01ChristineDialogueNVDLC01ChristineTopic180 Medicine 60 → Intelligence 6, Medicine 60
+NVDLC01ChristineDialogueNVDLC01ChristineTopic181 added [Math Wrath] back to topic
+NVDLC01ChristineDialogueNVDLC01ChristineTopic186 Speech 65 → Perception 6, Speech 65
+NVDLC01ChristineDialogueNVDLC01ChristineTopic187 Perception 6 → Perception 5, Survival 50
+NVDLC01ChristineDialogueNVDLC01ChristineTopic236 Perception 8 → Perception 8, Guns 50
+NVDLC01ChristineDialogueNVDLC01ChristineTopic264 added [Cherchez La Femme] back to topic
+NVDLC01ChristineDialogueNVDLC01ChristineTopic267 added [Confirmed Bachelor back to topic
+
+Father Elijah:
+
+NVDLC01ElijahDialogueNVDLC01ElijahTopic100 Explosives 75 → Endurance 5, Explosives 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic105 Explosives 75 → Science 50, Explosives 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic108 Repair 75 → Lockpick 50, Repair 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic109 Science 75 → Luck 7, Science 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic115 Science 75 → Intelligence 7, Science 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic116 Repair 75 -> Science 50, Repair 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic121 Speech 75 → Agility 7, Speech 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic122 Barter 75 → Endurance 6, Barter 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic126 Speech 75 → Charisma 7, Speech 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic127 Barter 75 → Agility 7, Barter 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic132 Lockpick 75, Agility 7, Lockpick 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic133 Sneak 75 → Survival 50, Sneak 75
+NVDLC01ElijahDialogueNVDLC01ElijahTopic138 Sneak 75 → Endurance 6, Sneak 75
+
+Dog/God: 
+
+NVDLC01DogDialogueNVDLC01DogTopic000 Lockpick 35 → Intelligence 6, Lockpick 35
+NVDLC01DogDialogueNVDLC01DogTopic001 Medicine 35 → Perception 6, Medicine 35
+NVDLC01DogDialogueNVDLC01DogTopic002 Science 35 → Medicine 25, Science 35
+NVDLC01DogDialogueNVDLC01DogTopic009 Speech 50 → Agility 5, Speech 50
+NVDLC01DogDialogueNVDLC01DogTopic030 Added [Cannibal] back to topic
+NVDLC01DogDialogueNVDLC01DogTopic046 Speech 35 → Agility 5, Speech 35
+NVDLC01DogDialogueNVDLC01DogTopic062 Speech 65 → Medicine 50, Speech 50
+NVDLC01DogDialogueNVDLC01DogTopic067 Speech 85 → Medicine 65, Speech 65
+NVDLC01DogDialogueNVDLC01DogTopic078 Intelligence 6 → Intelligence 6, Melee Weapons 25, Energy Weapons 25
+NVDLC01DogDialogueNVDLC01DogTopic079 Speech 35 → Charisma 5, Speech 35
+NVDLC01DogDialogueNVDLC01DogTopic080 Speech 35 → Agility 5, Speech 35
+NVDLC01DogDialogueNVDLC01GodTopic034 Speech 50 → Agility 5, Speech 50
+NVDLC01DogDialogueNVDLC01GodTopic035 Intelligence 7 → Charisma 6, Repair 50
+NVDLC01DogDialogueNVDLC01GodTopic066 Science 35 → Perception 5, Science 35
+NVDLC01DogDialogueNVDLC01GodTopic082 Perception 6 → Perception 5, Sneak 35
+NVDLC01DogDialogueNVDLC01GodTopic090 Speech 65 → Perception 6, Speech 65
+NVDLC01DogDialogueNVDLC01GodTopic094 Speech 85 → Charisma 7, Speech 85
+NVDLC01DogDialogueNVDLC01GodTopic097 Medicine 35 → Perception 6, Medicine 35
+NVDLC01DogDialogueNVDLC01GodTopic111 Science 75 → Intelligence 6, Science 75
+NVDLC01DogDialogueNVDLC01GodTopic115 Science 35 → Medicine 25, Science 35
+NVDLC01DogDialogueNVDLC01GodTopic128 Intelligence 7 → Charisma 6, Repair 50
+
+Old World Blues:
+
+Dr. Klein: 
+
+NVDLC03DialogueKleinNVDLC03DoctorBorousLVLTopic001 Medicine 55 → Perception 6, Medicine 55
+NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic013 Guns 50 → Barter 25, Guns 50
+NVDLC03DialogueKleinNVDLC03DoctorDalaLVLTopic014 Energy Weapons 50 → Barter 25, Energy Weapons 50
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic009 Lockpick 75 → Science 40, Lockpick 75
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic010 Sneak 45 → Science 25, Sneak 45
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic011 Repair 75 → Intelligence 7, Repair 75
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic013 Science 65 → Medicine 35, Science 65
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic022 Speech 75 → [Terrifying Presence], Science 60
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic023 Medicine 85 → Sneak 50, Medicine 85
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic024 Science 100 → Luck 7, Science 100
+NVDLC03DialogueKleinNVDLC03DoctorKlein01Topic027 Speech 85 → Agility 8, Speech 85
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic013 Speech 55 → Charisma 6, Speech 55
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic014 Science 55 → Intelligence 6, Science 55
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic045 Guns 75 → Barter 35, Guns 75
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic056 Intelligence 8, Intelligence 7, Repair 50
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic064 Science 85 → Medicine 40, Science 85
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic066 Medicine 85 → [Living Anatomy], Science 40
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic067 Intelligence 6 → Intelligence 6, Speech 35
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic068 Barter 25 → Agility 4, Barter 25
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic070 Science 35 → Perception 5, Science 35
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic071 Medicine 75 → Intelligence 6, Medicine 75
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic075 Science 35 → [Robotics Expert], Intelligence 6
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic076 Medicine 60 → [Chemist], Intelligence 6
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic077 Speech 55 → Charisma 7, Speech 55
+NVDLC03DialogueKleinNVDLC03DoctorKleinLVLTopic078 Speech 70 → Charisma 8, Speech 70
+NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic009 Barter 50 → Speech 25, Barter 50
+NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic010 Barter 75 → Speech 40, Barter 75
+NVDLC03DialogueKleinNVDLC03DoctorOLVLTopic011 Barter 90 → Speech 50, Barter 90
+
+Doctor Dala:
+
+NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic023 Added [Cherchez La Femme] back to topic
+NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic029 Added [Lady Killer] back to topic
+NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic030 Perception 8 → Perception 8, Science 30
+NVDLC03DialogueDalaNVDLC03DoctorDalaLVLTopic044 Speech 45 → Charisma 7, Speech 45
+
+Doctor 8: 
+
+NVDLC03Dialogue8NVDLC03Doctor8LVLTopic014 Science 75 → Perception 5, Science 75
+NVDLC03Dialogue8NVDLC03Doctor8LVLTopic067 Science 75 → Intelligence 5, Science 75
+NVDLC03Dialogue8NVDLC03Doctor8LVLTopic086 Speech 50 → Charisma 6, Speech 50
+
+Doctor Borous:
+
+NVDLC03DialogueBorousNVDLC03DoctorBorousLVLTopic034 Added [Animal Friend] back to topic
+
+Doctor O:
+
+NVDLC03Dialogue0NVDLC03DoctorOLVLTopic017 Speech 65 → Medicine 40, Speech 65
+NVDLC03Dialogue0NVDLC03DoctorOLVLTopic032 Added [Math Wrath] Back to topic
+NVDLC03Dialogue0NVDLC03DoctorOLVLTopic040 Barter 25 → Science 25, Barter 25
+
+Doctor Mobius: 
+
+NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic025 Science 50 → Intelligence 6, Science 50
+NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic029 Intelligence 7 → Intelligence 8
+NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic034 Intelligence 7 → Intelligence 8
+NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic040 Perception 7 → Perception 7, Guns 50
+NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic041 Medicine 65 → Intelligence 6, Medicine 65
+NVDLC03DialogueMobiusNVDLC03DoctorMobiusLVLTopic055 Repair 75 → Science 40, Repair 75
+
+Brain Tank:
+
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic038 Medicine 55 → Charisma 6, Medicine 55
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic041 Speech 75 → Charisma 7, Speech 75
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic044 Guns 75 → Endurance 6, Guns 75
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic045 Endurance 6, Explosives 75
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic046 Explosives 75 → Charisma 6, Explosives 75
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic047 Melee Weapons → Strength 6, Melee Weapons 75
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic048 Unarmed 75 → Strength 6, Unarmed 75
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic059 Added [Cherchez La Femme] back to topic
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic060 Added [Confirmed Bachelor] back to topic
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic063 Added [Black Widow] back to topic
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic064 Added [Lady Killer] back to topic
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic065 Speech 75 → Charisma 7, Speech 75
+NVDLC03DialoguePlayerBrainNVDLC03PlayerBrainTankTopic077 Science 75 → Agility 7, Science 75
+
+Lonesome Road:
+
+Ed-E Clone:
+
+NVDLC04DialogueEDENVDLC04EDETopic006 Science 35 → Perception 5, Science 35
+NVDLC04DialogueEDENVDLC04EDETopic027 Survival 55 → Intelligence 6, Survival 55
+NVDLC04DialogueEDENVDLC04EDETopic052 Repair 50 → Perception 7, Repair 50
+NVDLC04DialogueEDENVDLC04EDETopic067 Intelligence 6 → Repair 35, Science 50
+NVDLC04DialogueEDENVDLC04EDETopic095 Science 60 → Intelligence 6, Science 60
+NVDLC04DialogueEDENVDLC04EDETopic133 Guns 50 → Perception 7, Guns 50
+NVDLC04DialogueEDENVDLC04EDETopic134 Explosives 35 → Energy Weapons 35, Explosives 35
+NVDLC04DialogueEDENVDLC04EDETopic135 Explosives 65 → Energy Weapons 45, Explosives 45
+NVDLC04DialogueEDENVDLC04EDETopic138 Repair 35 → Intelligence 6, Repair 35
+NVDLC04DialogueEDENVDLC04EDETopic139 Repair 65 → Energy Weapons 40, Repair 65
+NVDLC04DialogueEDENVDLC04EDETopic141 Guns 25 → Intelligence 5, Guns 25
+NVDLC04DialogueEDENVDLC04UlyssesTopic002 Explosives 50 → Perception 6, Explosives 50
+NVDLC04DialogueEDENVDLC04UlyssesTopic015 Survival 35 → Intelligence 5, Survival 35
+NVDLC04DialogueEDENVDLC04UlyssesTopic017 Speech 75 → Intelligence 7, Speech 75
+NVDLC04DialogueEDENVDLC04UlyssesTopic038 Medicine 35 → Science 25, Medicine 35
+NVDLC04DialogueEDENVDLC04UlyssesTopic039 Survival 35 → Intelligence 7, Survival 35
+NVDLC04DialogueEDENVDLC04UlyssesTopic040 Science 50 → Explosives 25, Science 50
+NVDLC04DialogueEDENVDLC04UlyssesTopic045 Intelligence 7 → Intelligence 7, [Educated]
+NVDLC04DialogueEDENVDLC04UlyssesTopic046 Intelligence 7 → Intelligence 7, Survival 75
+NVDLC04DialogueEDENVDLC04UlyssesTopic047 Speech 75 → Perception 7, Speech 75
+NVDLC04DialogueEDENVDLC04UlyssesTopic072 Speech 55 → Charisma 6, Speech 55
+NVDLC04DialogueEDENVDLC04UlyssesTopic075 Survival 35 → Intelligence 6, Survival 35
+NVDLC04DialogueEDENVDLC04UlyssesTopic076 Science 65 → Intelligence 7, Science 65
+NVDLC04DialogueEDENVDLC04UlyssesTopic088 Added [Explorer] back to topic
+NVDLC04DialogueEDENVDLC04UlyssesTopic114 Speech 75 → Intelligence 7, Speech 75
+NVDLC04DialogueEDENVDLC04UlyssesTopic120 Speech 75 → Perception 7, Speech 75
+NVDLC04DialogueEDENVDLC04UlyssesTopic123 Speech 75 → Intelligence 7, Speech 75
+NVDLC04DialogueEDENVDLC04UlyssesTopic124 Speech 75 → Speech 75, [Comprehension] 
+Also had to reword dialogue option to fit [Comprehension] 
+NVDLC04DialogueEDENVDLC04UlyssesTopic130 Perception 6 → Perception 6, Medicine 40
+
+Ulysses:
+
+NVDLC04DialogueUlyssesNVDLC04UlyssesTopic020 Speech 90 → Speech 90, [Educated]
+NVDLC04DialogueUlyssesNVDLC04UlyssesTopic023 Speech 100 → Intelligence 7, Speech 100, [Educated]
+NVDLC04DialogueUlyssesNVDLC04UlyssesTopic080 Speech 90 → Intelligence 7, Speech 90
+NVDLC04DialogueUlyssesNVDLC04UlyssesTopic089 Speech 90 → Charisma 8, Speech 90
+NVDLC04DialogueUlyssesNVDLC04UlyssesTopic092 Speech 90 → Agility 8, Speech 90
+
+
