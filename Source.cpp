@@ -51,8 +51,8 @@ namespace DiaCondExtended
         static const UInt32 returnAddr = 0x763C40;
         _asm
         {
-            mov [ebp - 0x23C], ecx //Rewriting Overwritten Address
-            mov SkillCheckVar, ecx //ECX = AvCode --> SkillCheckVar
+            mov[ebp - 0x23C], ecx               //Rewriting Overwritten Address
+            mov SkillCheckVar, ecx              //ECX = AvCode --> SkillCheckVar
             jmp returnAddr
         }
     }
@@ -64,18 +64,17 @@ namespace DiaCondExtended
         static const UInt32 returnAddr = 0x763BD9;
         _asm
         {
-            mov [ebp - 0x230], eax  //Rewriting Overwritten Address
-            lea edi, [ebp - 0x208]  
+            mov[ebp - 0x230], eax               //Rewriting Overwritten Address
+            lea edi, [ebp - 0x208]
             mov ecx, 0x200
             xor eax, eax
-            rep stosb               //Cleared StringBuffer
+            rep stosb                           //Cleared StringBuffer
             jmp returnAddr
-
         }
     }
 
     //Modifies the construction of the failure string.
-    _declspec(naked) void __fastcall StringModFail()
+    _declspec(naked) void __stdcall StringModFail()
     {
         static const UInt32 FormatString = 0x406D00;
         static const UInt32 offsetAddr = 0x01072850;
@@ -86,11 +85,12 @@ namespace DiaCondExtended
             push eax                            //eax = AvCode
             push offsetAddr                     //"%s %d/%d"
             push 0x200
-            lea eax, [ebp + newSkillString]
-            push eax                          
+            lea eax, newSkillString
+            push eax
             call FormatString                   //FormatString(newSkillString, 512, "%s %d/%d", AvCode, ClampedActorValueI, ComparisonValue)
-            add esp, 0x18
-            lea eax, [ebp + newSkillString]     //Concatenated String 
+            add esp, 0x18                       //2 arguments before jump + 4 new arguments = 6 arguments = 24 bits
+
+            lea eax, newSkillString             //Concatenated String 
             push eax
             lea edx, [ebp - 0x208]              //StringBuffer
             push edx
@@ -99,13 +99,14 @@ namespace DiaCondExtended
             lea eax, [ebp - 0x208]
             push eax
             call FormatString                   //FormatString(StringBuffer, 512, "%s[%s] ", StringBuffer, newSkillString)
-            add esp, 0x14
+            add esp, 0x14                       //Need to clean 20 bits for 5 arguments
+
             jmp returnAddr
         }
     }
 
     //Modifies the construction of the success string.
-    _declspec(naked) void __fastcall StringModPass()
+    _declspec(naked) void __stdcall StringModPass()
     {
         static const UInt32 FormatString = 0x406D00;
         static const UInt32 offsetAddr = 0x0104700C;
@@ -116,11 +117,12 @@ namespace DiaCondExtended
             push eax                            //eax = AvCode
             push offsetAddr                     //"%s %d"
             push 0x200
-            lea eax, [ebp + newSkillString]
+            lea eax, newSkillString
             push eax
             call FormatString                   //FormatString(newSkillString, 512, "%s %d", AvCode, ComparisonValue)
-            add esp, 0x14                      
-            lea eax, [ebp + newSkillString]     //Concatenated String
+            add esp, 0x14                       
+
+            lea eax, newSkillString             //Concatenated String
             push eax
             lea edx, [ebp - 0x208]              //StringBuffer
             push edx
@@ -129,6 +131,7 @@ namespace DiaCondExtended
             lea eax, [ebp - 0x208]
             push eax
             call FormatString                   //FormatString(StringBuffer, 512, "%s[%s] ", StringBuffer, newSkillString)
+
             jmp returnAddr
         }
     }
@@ -153,27 +156,18 @@ namespace DiaCondExtended
         UInt32 passStrAddr = 0x763CC7;      //This Address is for the String Buffer right before the string is formatted (Success Condition) 
         UInt32 endFormatAddr = 0x763D19;    //THis Address pushes the string definition "%s]  %s" as an offset to close the Skill Tag up; ']'
 
-        ULONG_PTR breakAddr1 = 0x763CE7;  //breakAddr1 and 2 are responsible for the break at the end of the for loop 
+        ULONG_PTR breakAddr1 = 0x763CE7;    //breakAddr1 and 2 are responsible for the break at the end of the for loop 
         ULONG_PTR breakAddr2 = 0x763CE8;
 
-        ULONG_PTR loopStartAddrEnd = 0x763BD8; //Final byte of loopStartAddr
-        ULONG_PTR failStrAddrEnd = 0x763C9C;   //Final byte of failStrAddr
-        ULONG_PTR passStrAddrEnd = 0x763CCC;   //Final byte of passStrAddr
-
         //Extend Dialogue Conditions
-        WriteRelJump(avHookAddr, UInt32(GetAvCodeHook)); 
-        WriteRelJump(loopStartAddr, UInt32(WipeBuffer)); 
+        WriteRelJump(avHookAddr, UInt32(GetAvCodeHook));
+        WriteRelJump(loopStartAddr, UInt32(WipeBuffer));
         WriteRelJump(failStrAddr, UInt32(StringModFail));
-        WriteRelJump(passStrAddr, UInt32(StringModPass)); 
+        WriteRelJump(passStrAddr, UInt32(StringModPass));
         WriteRelJump(endFormatAddr, UInt32(EndModString));
 
-        //NOP excess byte from original address (Original 6 --> New 5 bytes)
-        PatchMemoryNop(loopStartAddrEnd, 1); 
-        PatchMemoryNop(failStrAddrEnd, 1);  
-        PatchMemoryNop(passStrAddrEnd, 1); 
-
         //Remove loop break
-        PatchMemoryNop(breakAddr1, 1);  
-        PatchMemoryNop(breakAddr2, 1);  
+        PatchMemoryNop(breakAddr1, 1);
+        PatchMemoryNop(breakAddr2, 1);
     }
 }
